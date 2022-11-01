@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/apollo-lift-off-client/static/js/main.4a1c5688.chunk.js",
-    "main.js.map": "/apollo-lift-off-client/static/js/main.4a1c5688.chunk.js.map",
+    "main.js": "/apollo-lift-off-client/static/js/main.fe96659d.chunk.js",
+    "main.js.map": "/apollo-lift-off-client/static/js/main.fe96659d.chunk.js.map",
     "runtime-main.js": "/apollo-lift-off-client/static/js/runtime-main.3e2e5d08.js",
     "runtime-main.js.map": "/apollo-lift-off-client/static/js/runtime-main.3e2e5d08.js.map",
     "static/css/2.0051a2da.chunk.css": "/apollo-lift-off-client/static/css/2.0051a2da.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3e2e5d08.js",
     "static/css/2.0051a2da.chunk.css",
     "static/js/2.5cb2fa96.chunk.js",
-    "static/js/main.4a1c5688.chunk.js"
+    "static/js/main.fe96659d.chunk.js"
   ]
 }
