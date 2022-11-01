@@ -4,6 +4,7 @@ import GlobalStyles from './styles';
 import Pages from './pages';
 import { ApolloProvider, ApolloClient, InMemoryCache } from '@apollo/client';
 
+
 const client = new ApolloClient({
   uri: 'https://apollo-lift-off-tutorial.glitch.me/',
   cache: new InMemoryCache(),
